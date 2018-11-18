@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact name="KValidation">
+    <output-path>$PROJECT_DIR$/out/artifacts/KValidation</output-path>
+    <root id="root">
+      <element id="library" level="project" name="Gradle: org.jetbrains.kotlin:kotlin-reflect:1.2.61" />
+      <element id="archive" name="kValidator.jar" />
+      <element id="archive" name="Validator_main.jar">
+        <element id="module-output" name="Validator_main" />
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: k-validator-0.3.0.jar
+Main-Class: MainKt
+
